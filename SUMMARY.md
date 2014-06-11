@@ -1,7 +1,7 @@
 # Summary
 
-* [schema和数据定义优化](chapter01/README.md)
-* [索引结构](chapter02/file_name_should_be_unique.md)
-* [索引优化](chapter03/chapter03.md)
-* [查询优化](chapter04/README.md)
+* [schema和数据定义优化](ch01/README.md)
+* [索引结构](ch02/README.md)
+* [索引优化](ch03/README.md)
+* [查询优化](ch04/README.md)
 
