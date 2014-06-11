@@ -5,5 +5,5 @@
 ### 3 索引优化
 ### 4 查询优化
 
-[![Screen](./assets/intro.jpg)](./assets/intro.png)
+[![Screen](./assets/intro.jpg)](./assets/intro.jpg)
 
